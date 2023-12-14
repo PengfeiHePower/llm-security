@@ -1285,6 +1285,8 @@ Dataset with LLM-generated code with vulnerability classification.
     
 - Adversarial Attacks on LLMs [[Blog](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)]
 
+- SmoothLLM: Defending LLMs Against Jailbreaking Attacks [[Blog](https://debugml.github.io/smooth-llm/)]
+
 ### Resource Compilation
 
 - https://github.com/corca-ai/awesome-llm-security: A curation of awesome tools, documents and projects about LLM Security.
